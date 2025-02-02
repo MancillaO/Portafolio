@@ -260,6 +260,7 @@ article ul {
     }
 
     article ul {
-        padding: 10px;
+        padding-left: 20px;
+        text-align: left;
     }
 }
