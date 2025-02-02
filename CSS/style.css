@@ -165,13 +165,11 @@ article ul {
 
     #info h1 {
         font-size: 47px;
-
     }
 
     #info h2 {
         font-size: 41px;
         margin: 0;
-
     }
 
     #info p {
@@ -191,7 +189,6 @@ article ul {
 
     article ul li {
         margin: .3rem auto;
-
     }
 
     article ul {
@@ -200,7 +197,6 @@ article ul {
 
     #redes {
         text-align: center;
-
     }
 
     ul {
@@ -227,7 +223,6 @@ article ul {
     #info {
         width: 95%;
         margin-bottom: 2rem;
-
     }
 
     #info h1 {
@@ -241,24 +236,20 @@ article ul {
 
     #info p {
         font-size: 22px;
-
-
+        text-align: justify;
     }
 
     #info #detalle {
         margin-top: 8px;
         width: 100%;
-
     }
 
     #redes {
         text-align: center;
-
     }
 
     article {
         width: 100%;
-
     }
 
     article ul li {
@@ -266,7 +257,6 @@ article ul {
         font-size: 1.5rem;
         display: block;
         padding: .5%;
-
     }
 
     article ul {
